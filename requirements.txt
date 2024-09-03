@@ -1,3 +1,4 @@
+pyrogram
 tgcrypto
 numpy<2
 psutil
